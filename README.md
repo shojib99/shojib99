@@ -5,7 +5,7 @@
 🎓 CSE Student
 💻 Passionate Programmer & Software Engineering Enthusiast  
 
-- 🌱 Currently learning Data Structures & Algorithms  
+- 🌱 Currently learning Web Development  
 - 💻 I code in C, C++, Java & Python  
 - 📚 Interested in Competitive Programming  
 - ⚡ Fun fact: I enjoy solving logical problems  
@@ -17,7 +17,7 @@
 <a href="https://github.com/shojib99" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/shojibsheikh/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>
 </a>
 </p>
